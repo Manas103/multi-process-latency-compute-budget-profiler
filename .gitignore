@@ -1,0 +1,6 @@
+build/
+*.o
+*.obj
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
